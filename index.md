@@ -1,3 +1,9 @@
+---
+layout: default
+title: Resume
+description: Driving excellence through technology leadership.
+---
+
 # David Grumm
 
 San Francisco, CA - [LinkedIn](https://www.linkedin.com/in/davidgrumm)
