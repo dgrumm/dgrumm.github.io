@@ -101,7 +101,7 @@ Accomplished technology leader with deep experience steering global, cross-funct
 
 ### GAP INC., San Francisco, CA 2006-2014
 
-**Sr. Director, Engineering & Operations, Global Store Technologies (3/2011-8/2014)**  
+**Sr. Director, Engineering & Operations, Global Store Technologies (3/2011-8/2014)**<br>
 **Director, Software Engineering, Gap Inc. Direct (2/2006-3/2011)**  
 
 - Orchestrated the transformation of Global Store Technologies into an agile organization, in-sourcing engineering talent, growing the team to more than 130, supporting tech for 3000 stores across 9 countries.
@@ -113,9 +113,9 @@ Accomplished technology leader with deep experience steering global, cross-funct
 
 ### TRAVELOCITY, San Francisco, CA 1998-2006
 
-**Director, Software Engineering (10/2004-2/2006)**  
-**Sr. Manager, Software Engineering (2/2001-10/2004)**  
-**Lead Software Engineer (7/1998-2/2001)**  
+**Director, Software Engineering (10/2004-2/2006)**<br>
+**Sr. Manager, Software Engineering (2/2001-10/2004)**<br>  
+**Lead Software Engineer (7/1998-2/2001)**
 
 - Directed 30+ engineers in development of Vacation and Cruises product lines, re-architecture of Sabre's global hotel content system, and launched sister travel site, zuji.com.
 
