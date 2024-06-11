@@ -47,18 +47,15 @@ Accomplished technology leader with deep experience steering global, cross-funct
 
 **Vice President, Engineering - Product, Platform & Trust**
 
-**Business & Revenue Impact:**
-
+**Business & Revenue Impact:**   
 - Integral in driving and supporting ThredUp's rapid growth (revenue grew from $186M in 2020 to over $322M in 2023) by scaling marketplace systems to support 70M visitors, 2M active buyers, 7M orders and 100K+ new sellers/year, and extending the platform for 40+ Resale-as-a-Service brand partnerships.
 
-**Leadership & Organizational Transformation:**
-
+**Leadership & Organizational Transformation:**  
 - Led a high-performing engineering organization of 50+ technologists, including 3 directors, 4 managers and 45 software/systems engineers across web, iOS and Android streams.
 - Defined vision and successfully transitioned to a streamlined "pod" and "guild" structure - integrating stream-aligned teams for customer-centric development and platform teams for common functions.
 - Catalyzed innovation through hackathons and founding an AI task force, sparking team collaboration, creativity and engagement, which led to novel features like StyleMatch, Thrift-the-Look and virtual try-on.
 
-**Technology Vision & Execution:**
-
+**Technology Vision & Execution:**  
 - Defined technology roadmap and spearheaded key initiatives, driving platform reliability, user engagement and business growth; notable examples include:
   - Build-out of a progressive web application (PWA) which led to reduced "bounce rate" and higher functional quality (90%+ unit test coverage).
   - Major website performance enhancements led to 236% faster load speeds, 134% better responsiveness and 66% improved visual stability, boosting customer sentiment, SEO rankings and conversion rates.
@@ -104,8 +101,8 @@ Accomplished technology leader with deep experience steering global, cross-funct
 
 ### GAP INC., San Francisco, CA 2006-2014
 
-**Sr. Director, Engineering & Operations, Global Store Technologies (3/2011-8/2014)**
-**Director, Software Engineering, Gap Inc. Direct (2/2006-3/2011)**
+**Sr. Director, Engineering & Operations, Global Store Technologies (3/2011-8/2014)**  
+**Director, Software Engineering, Gap Inc. Direct (2/2006-3/2011)**  
 
 - Orchestrated the transformation of Global Store Technologies into an agile organization, in-sourcing engineering talent, growing the team to more than 130, supporting tech for 3000 stores across 9 countries.
 - Led the "Store-to-Cloud" project, modernizing store POS and infrastructure through cloud architecture, supporting $14B in annual revenue.
@@ -116,9 +113,9 @@ Accomplished technology leader with deep experience steering global, cross-funct
 
 ### TRAVELOCITY, San Francisco, CA 1998-2006
 
-**Director, Software Engineering (10/2004-2/2006)**
-**Sr. Manager, Software Engineering (2/2001-10/2004)**
-**Lead Software Engineer (7/1998-2/2001)**
+**Director, Software Engineering (10/2004-2/2006)**  
+**Sr. Manager, Software Engineering (2/2001-10/2004)**  
+**Lead Software Engineer (7/1998-2/2001)**  
 
 - Directed 30+ engineers in development of Vacation and Cruises product lines, re-architecture of Sabre's global hotel content system, and launched sister travel site, zuji.com.
 
