@@ -12,7 +12,7 @@ San Francisco, CA - [LinkedIn](https://www.linkedin.com/in/davidgrumm)
 
 ## SUMMARY
 
-Accomplished technology leader with deep experience steering global, cross-functional teams in the architecture, development, and operation of large-scale systems. Proven track record of driving innovation, improving developer productivity, and leading strategic technology initiatives that enable business growth. Passionate about enhancing developer experience and creating efficient, scalable software ecosystems. Adept at fostering engineering excellence and mentoring technical talent
+Accomplished technology leader with deep experience steering global, cross-functional teams in the architecture, development, and operation of large-scale systems. Proven track record of driving innovation, improving developer productivity, and leading strategic technology initiatives that enable business growth. Passionate about enhancing developer experience and creating efficient, scalable software ecosystems. Adept at fostering engineering excellence and mentoring technical talent.
 
 ---
 
@@ -33,11 +33,11 @@ Accomplished technology leader with deep experience steering global, cross-funct
 
 ## LEADERSHIP HIGHLIGHTS
 
-- **Innovation and Business Growth Catalyst**: Led critical technology initiatives that drove business expansion across several companies. At ThredUp, initiatives included AI-powered product search, rebuilding the website as a progressive web application (PWA), creating a custom CMS, and revamping native mobile apps. At Gap Inc., I led the “Store-to-Cloud” initiative, transforming retail operations with a web-based POS on modern cloud infrastructure. At Calculi Inc., I formulated the product strategy and go-to-market motion for Guide-Rails, catalyzing early market growth and later acquisition by Cloudbees
+- **Innovation and Business Growth Catalyst**: Led critical technology initiatives that drove business expansion across several companies. At ThredUp, initiatives included AI-powered product search, rebuilding the website as a progressive web application (PWA), creating a custom CMS, and revamping native mobile apps. At Gap Inc., I led the “Store-to-Cloud” initiative, transforming retail operations with a web-based POS on modern cloud infrastructure. At Calculi Inc., I formulated the product strategy and go-to-market motion for Guide-Rails, catalyzing early market growth and later acquisition by Cloudbees.
 
-- **Strategic Leadership in Scaling Technology Operations**: Spearheaded strategic improvements in technical operations, platform resilience and engineering processes at ThredUP, supporting a successful IPO and sustained business growth. At Sephora, instigated a transformative shift to cloud computing, boosting platform scalability and agility. At Gap Inc., drove automation of software delivery to significantly cut time-to-market for e-commerce and store systems changes, boosting efficiency and market responsiveness
+- **Strategic Leadership in Scaling Technology Operations**: Spearheaded strategic improvements in technical operations, platform resilience and engineering processes at ThredUP, supporting a successful IPO and sustained business growth. At Sephora, instigated a transformative shift to cloud computing, boosting platform scalability and agility. At Gap Inc., drove automation of software delivery to significantly cut time-to-market for e-commerce and store systems changes, boosting efficiency and market responsiveness.
 
-- **Advancing Agile and DevOps Cultures**: Instrumental in transforming organizational cultures across various companies. I established streamlined engineering team structures at ThredUP and Sephora, drove DevOps adoption at Apple and Verizon, and in-sourced and modernized software development at Gap Inc. These efforts resulted in accelerated feature time-to-market and enhanced team productivity
+- **Advancing Agile and DevOps Cultures**: Instrumental in transforming organizational cultures across various companies. I established streamlined engineering team structures at ThredUP and Sephora, drove DevOps adoption at Apple and Verizon, and in-sourced and modernized software development at Gap Inc. These efforts resulted in accelerated feature time-to-market and enhanced team productivity.
 
 ---
 
@@ -46,7 +46,7 @@ Accomplished technology leader with deep experience steering global, cross-funct
 ### THREDUP, INC, Oakland, CA. 3/2020-3/2024
 
 **Vice President, Engineering - Product, Platform & Trust**<br>
-Led product and platform engineering for ThredUp's e-commerce marketplace systems. Oversaw full-stack development spanning customer-facing web, native mobile apps for iOS and Android, backend services (Ruby on Rails, Java/Kotlin, Node.js), and cloud infrastructure (AWS, Kubernetes). Drove developer productivity, fortified cybersecurity, and established data privacy/compliance functions
+Led product and platform engineering for ThredUp's e-commerce marketplace systems. Oversaw full-stack development spanning customer-facing web, native mobile apps for iOS and Android, backend services (Ruby on Rails, Java/Kotlin, Node.js), and cloud infrastructure (AWS, Kubernetes). Drove developer productivity, fortified cybersecurity, and established data privacy/compliance functions.
 
 **Business & Revenue Impact:**   
 - Integral in driving and supporting ThredUp's rapid growth (revenue grew from $186M in 2020 to over $322M in 2023) by scaling marketplace systems to support 70M visitors, 2M active buyers, 7M orders and 100K+ new sellers/year, and extending the platform for 40+ Resale-as-a-Service brand partnerships
@@ -76,7 +76,7 @@ Technologies: AWS, Kubernetes, Docker, Ruby on Rails, Swift, Java, Kotlin, Pytho
 ### CALCULI, INC. (aka GUIDE-RAILS), Santa Clara, CA 9/2018-3/2020
 
 **Senior Vice President, Product**<br>
-Led product strategy and development of Guide-Rails, an enterprise DevSecOps SaaS platform enabling automated and efficient software delivery across major cloud platforms
+Led product strategy and development of Guide-Rails, an enterprise DevSecOps SaaS platform enabling automated and efficient software delivery across major cloud platforms.
 
 Key Achievements:
 - Championed strategic vision and defined capabilities for the core product focused on enhancing developer productivity, streamlining software development and operations across AWS, Azure, and GCP
@@ -91,7 +91,7 @@ Technologies: AWS, Azure, Google Cloud, Cloud Foundry, Kubernetes, Javascript, R
 ### SEPHORA USA, INC., San Francisco, CA 12/2015-8/2018
 
 **Vice President, Platform Engineering & Operations**<br>
-Led platform engineering and operations across e-commerce, stores, supply chain, and corporate functions, scaling up to support revenue growth from $4.5B to $6.5B
+Led platform engineering and operations across e-commerce, stores, supply chain, and corporate functions, scaling up to support revenue growth from $4.5B to $6.5B.
 
 Key Achievements:
 - Grew to 450+ stores, scaled e-commerce platform to 200M+ annual visitors, and introduced augmented reality in mobile apps
@@ -106,19 +106,20 @@ Technologies: Datacenter; VMWare; AWS; Azure; Oracle: DB, ATG, Micros POS; Java;
 ### VERIZON COMMUNICATIONS, INC., Santa Clara, CA 	6/2015-12/2015
 
 **Strategic Technology Consultant**<br>
-Led a major initiative to enhance engineering productivity by adopting cloud infrastructure and optimizing software delivery processes. Developed and executed a comprehensive strategy for integrating a modern “DevOps Toolchain” with Verizon’s private cloud (AWS, Cloud Foundry)
+Led a major initiative to enhance engineering productivity by adopting cloud infrastructure and optimizing software delivery processes. Developed and executed a comprehensive strategy for integrating a modern “DevOps Toolchain” with Verizon’s private cloud (AWS, Cloud Foundry).
 - Achieved 9x increase in production deployment frequency through optimized software delivery processes
 
 Technologies: AWS, Cloud Foundry, Docker, Java, C#, Jenkins
 
+---
+
 ### APPLE, INC., Cupertino, CA 	9/2014-12/2015
 
 **Strategic Technology Consultant**<br>
-Directed a team to develop a unified platform for continuous delivery within Apple’s private cloud. The platform enabled software development and technical operations teams to more effectively build, deploy and run cloud-native workloads
+Directed a team to develop a unified platform for continuous delivery within Apple’s private cloud. The platform enabled software development and technical operations teams to more effectively build, deploy and run cloud-native workloads.
 - Enabled 5x faster deployment frequency for teams adopting the new cloud-native workload platform
 
 Technologies: Mesos, CoreOS, Docker, Ruby, Go, Cassandra
-
 
 ---
 
@@ -127,10 +128,10 @@ Technologies: Mesos, CoreOS, Docker, Ruby, Go, Cassandra
 **Sr. Director, Engineering & Operations, Global Store Technologies (3/2011-8/2014)**<br>
 **Director, Software Engineering, Gap Inc. Direct (2/2006-3/2011)**
 
-- Orchestrated the transformation of Global Store Technologies into an agile organization, in-sourcing engineering talent, growing the team to more than 130, supporting tech for 3000 stores across 9 countries.
-- Led the "Store-to-Cloud" project, modernizing store POS and infrastructure through cloud architecture, supporting $14B in annual revenue.
-- Facilitated e-commerce business growth from $500M to over $2B through a custom, unified, scalable platform serving all Gap Inc. brands.
-- Promoted Agile and Extreme Programming methodologies, enhancing project delivery across global offices.
+- Orchestrated the transformation of Global Store Technologies into an agile organization, in-sourcing engineering talent, growing the team to more than 130, supporting tech for 3000 stores across 9 countries
+- Led the "Store-to-Cloud" project, modernizing store POS and infrastructure through cloud architecture, supporting $14B in annual revenue
+- Facilitated e-commerce business growth from $500M to over $2B through a custom, unified, scalable platform serving all Gap Inc. brands
+- Promoted Agile and Extreme Programming methodologies, enhancing project delivery across global offices
 
 ---
 
@@ -140,7 +141,7 @@ Technologies: Mesos, CoreOS, Docker, Ruby, Go, Cassandra
 **Sr. Manager, Software Engineering (2/2001-10/2004)**<br>
 **Lead Software Engineer (7/1998-2/2001)**
 
-- Directed 30+ engineers in development of Vacation and Cruises product lines, re-architecture of Sabre's global hotel content system, and launched sister travel site, zuji.com.
+- Directed 30+ engineers in development of Vacation and Cruises product lines, re-architecture of Sabre's global hotel content system, and launched sister travel site, zuji.com
 
 ---
 
