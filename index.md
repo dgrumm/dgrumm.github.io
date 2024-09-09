@@ -4,8 +4,9 @@ title: Resume
 description: Driving excellence through technology leadership.
 ---
 
-# David Grumm
+<img align="right" hspace="10" vspace="10" width="120" height="120" src="https://miro.medium.com/v2/resize:fit:2400/1*BmJgcZCHNYOgIedUHXRLdQ.png"> 
 
+# David Grumm
 San Francisco, CA - [LinkedIn](https://www.linkedin.com/in/davidgrumm)
 
 ---
