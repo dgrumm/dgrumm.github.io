@@ -44,6 +44,26 @@ Accomplished technology leader with deep experience steering global, cross-funct
 
 ## PROFESSIONAL EXPERIENCE
 
+### RESIDENT HOME, San Francisco Bay Area (Remote) 12/2024-Present
+
+**Vice President, Technology**<br>
+Leading strategic technology initiatives at Resident Home, which has built one of the most successful D2C home furnishing platforms before being acquired by one of North America's largest furniture companies. Transforming Resident's proven technology platform into an enterprise-grade solution enabling omnichannel retail operations.
+
+**Key Focus Areas:**
+- Technical product strategy and roadmap development
+- Platform architecture and modernization for multi-tenant retail operations
+- Systems integration and workflow automation across sales, customer service, merchandising, and fulfillment
+- Cross-functional partnership with business stakeholders to drive digital transformation
+
+---
+
+### EVENFLO TECHNOLOGY, LLC, San Francisco Bay Area (Remote) 7/2024-Present
+
+**Fractional CTO/VP of Engineering**<br>
+Specializing in fractional CTO/VPE services, providing strategic leadership in software development and technology innovation to growth-stage startups and established companies driving digital transformation.
+
+---
+
 ### THREDUP, INC, Oakland, CA. 3/2020-3/2024
 
 **Vice President, Engineering - Product, Platform & Trust**<br>
